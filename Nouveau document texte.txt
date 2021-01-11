@@ -1,5 +1,11 @@
+git clone http://------------------
+
+cd .\initiation-HTML
+
 git add .
 
 git commit -m "METTRE L'INFO DE BUILD"
 
 git push
+
+*******Live Server**************
