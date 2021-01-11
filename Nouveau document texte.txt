@@ -1,0 +1,5 @@
+git add .
+
+git commit -m "METTRE L'INFO DE BUILD"
+
+git push
