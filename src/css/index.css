@@ -1,0 +1,13 @@
+/* commentaire en css */
+
+h1 {
+    background-color: black;
+    color: white;
+}
+
+.policeMax{
+    font-size: 5rem;
+    color: chartreuse;
+}
+
+#colorbody {}
