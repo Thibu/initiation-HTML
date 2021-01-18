@@ -1,0 +1,13 @@
+.boite{
+    border: 1px black solid;
+    margin-top: 1rem;
+}
+.fixe{
+    width: 300px;
+    height: 80px;
+    overflow: hidden;
+}
+.pourcentage{
+    width: 80%;
+    height: 30%;
+}

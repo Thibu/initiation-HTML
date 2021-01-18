@@ -54,9 +54,12 @@
     text-transform: lowercase;
 }
 .decoration3{
-    text-decoration: line-through red solid;
+    text-decoration: line-through rgb(55, 15, 150) solid;
     text-transform: capitalize;
 }
 .decoration4{
-    text-decoration: line-through red wavy;
+    text-decoration: line-through rgba(150, 200, 100, 0.651)  wavy;
+}
+.hexa{
+    background-color: #519843;
 }
