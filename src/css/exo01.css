@@ -1,0 +1,54 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+p{
+    color: green;
+}
+
+h3{
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+}
+
+div, span{
+    color: coral;
+}
+
+/* Les combinateurs */
+
+div span{
+    color: darkblue;
+}
+
+/* Les combinateurs enfants */
+
+div > span{
+    color: darkgreen;
+    font-weight: bold;
+}
+
+/*Mes classes*/
+
+.maClasse{
+    color: blue;
+}
+.rouge{
+    color: red;
+}
+.gras{
+    font-weight: bold;
+}
+
+/*Les ID*/
+
+#monId{
+    color: cyan;
+}
+
+/* Les selecteurs d'attributs*/
+
+a[href="http://google.be"]{
+    color: brown;
+}
